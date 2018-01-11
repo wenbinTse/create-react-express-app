@@ -1,0 +1,5 @@
+/node_modules/
+/server/dist/
+/build/
+/server/node_modules/
+/.idea/
